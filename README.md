@@ -21,4 +21,4 @@ Note: Lần đầu chạy hơi lâu
         PathOut = FileOut.pdf
 
     - Chạy lệnh terminal hoặc cmd (Đổi PathIn, PathOut )
-        python doc2pdf.py "PathIn" "PathOut"
+        python Doc2PDF.py "PathIn" "PathOut"
